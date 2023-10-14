@@ -1,48 +1,14 @@
+# Responsive Halloween Website 🎃
+## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
+### Responsive Halloween Website 🎃
 
-# 🔖 BOOKMARK MANAGER LANDING PAGE
+- Responsive Halloween Website Using HTML, CSS & JavaScript.
+- Contains animations when scrolling.
+- It has three color designs (green, red and black)
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-1) This is a landing page of bookmark management website developed by using **CSS and HTML and a library called Tailwind**.
+Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-2) It has an interactive interface and has columns, divide sections,headers and footers.
-
-
-## Installation
-
-Install Bookmark Manager Application with npm
-
-```bash
-  npm install 
-  npx tailwindcss -i ./src/style.css -o ./dist/output.css --watch
-```
-    
-## Screenshots
-
-
-1)  Header Section 
-
-![1](https://github.com/coder-shivanshu/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/8c9a36ed-1043-4118-abde-8a56fcdc77ba)
-
-2) Features Section
-
-![2](https://github.com/coder-shivanshu/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/416e85e0-0982-4cf2-b6c5-f30419c45fbf)
-
-3) Card Section
-
-![3](https://github.com/coder-shivanshu/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/31b5c382-29c9-4f35-9f5f-8fed5c9f5a88)
-
-4) FAQ Section
-
-![4](https://github.com/coder-shivanshu/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/2b3dd725-e651-4ada-86fb-3bce4205317d)
-
-
-5) Footer Section 
-
-![5](https://github.com/coder-shivanshu/CODESOFT-TASK-1-LANDING-PAGE/assets/91421022/2089cc06-a45f-452e-946d-e951c09ec1c0)
-
-
-
-## Author
-
-- [Shivanshu Sharma](https://github.com/Shivanshu198/Shivanshu198)
-
-# codsofttask1
+![halloween](/preview.png)
